@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+<head> <!--meter os scripts-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -84,9 +84,15 @@
 
 <footer>
     <div class="d-grid gap-2 d-md-block">
-        <button class="btn btn-outline-secondary btn-lg" type="button">Instagram</button>
-        <button class="btn btn-outline-secondary btn-lg" type="button">Linkedin</button>
-        <button class="btn btn-outline-secondary btn-lg" type="button">Contact</button>
+        <a href="https://instagram.com" target="_blank">
+            <button class="btn btn-outline-secondary btn-lg" type="button">Instagram</button>
+        </a>
+        <a href="https://linkedin.com" target="_blank">
+            <button class="btn btn-outline-secondary btn-lg" type="button">Linkedin</button>
+        </a>
+        <a href="mailto: inescouto72@gmail.com">
+            <button class="btn btn-outline-secondary btn-lg" type="button">Contact</button>
+        </a>
     </div>
 </footer>
 
