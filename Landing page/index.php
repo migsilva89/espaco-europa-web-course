@@ -12,7 +12,8 @@
 </head>
 
 <body>
-<header>
+<div class="centered-content">
+</div>
     <?php
     include "carousel.php";
     ?>
@@ -20,9 +21,11 @@
     <p class="subtitle">Home made Macrame</p>
 </header>
 
+<center>
 
-<ul>
-    <li>
+<div class="container mx-auto">
+    <div class="row mx-auto">
+
         <?php
         //variavel para imagens
         $products= [
@@ -31,23 +34,26 @@
             "./Images/macrame3.jpg",
             "./Images/macrame4.jpg",
             "./Images/card.jpg",
+            "./Images/card.jpg",
         ];
 
         ?>
 <!--   loop para todas as imagens-->
         <?php foreach ($products as $image){ ?>
-            <div class="card" style="background-image: url('<?php echo $image; ?>'); background-size: cover; background-repeat: no-repeat">
+            <div class="col-md-4 col-lg-2 col-sm-1 col-xs-1 mx-center">
+                <div class="card" style="background-image: url('<?php echo $image; ?>'); background-size: cover; background-repeat: no-repeat">
                 <a href="<?php echo $image; ?>" class="glightbox" data-gallery="gallery1">
                     <div class="eye">
                         <img src="Images/icon-view.svg" alt="...">
                     </div>
                 </a>
+                </div>
             </div>
          <?php } ?>
+    </div>
+</div>
 
-
-    </li>
-</ul>
+</center>
 
 
 
