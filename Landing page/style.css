@@ -13,11 +13,12 @@ body{
 .banner {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 60%;
     margin-top: 3rem;
     box-shadow: -6px 0px 29px -9px rgba(0,0,0,0.75);
     -webkit-box-shadow: -6px 0px 29px -9px rgba(0,0,0,0.75);
     -moz-box-shadow: -6px 0px 29px -9px rgba(0,0,0,0.75);
+    overflow: hidden;
 }
 
 h1 {
@@ -28,14 +29,16 @@ h1 {
     color: white;
 
 }
-h1:hover{
-    color: hsl(17, 100%, 50%, 20%);
-    transform: scale(1.1);
-}
+
+/*h1:hover{*/
+/*    color: hsl(17, 100%, 50%, 20%);*/
+/*    transform: scale(1.1);*/
+/*}*/
 
 p:hover{
-    color: hsl(0, 0%, 100%);
+    color: hsl(17, 100%, 50%, 70%);
     transform: scale(1.1);
+    cursor: pointer;
 }
 
 

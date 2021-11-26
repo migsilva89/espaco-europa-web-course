@@ -21,6 +21,8 @@
     <h1>Inês Couto</h1>
     <p class="subtitle">Home made Macrame</p>
 
+
+
 <center>
 
     <div class="container mx-auto">
@@ -30,11 +32,6 @@
                 //variavel para imagens
                 $products= [
                     "./Images/macrame.jpg",
-                    "./Images/macrame2.jpg",
-                    "./Images/macrame3.jpg",
-                    "./Images/macrame4.jpg",
-                    "./Images/card.jpg",
-                    "./Images/card.jpg",  "./Images/macrame.jpg",
                     "./Images/macrame2.jpg",
                     "./Images/macrame3.jpg",
                     "./Images/macrame4.jpg",
