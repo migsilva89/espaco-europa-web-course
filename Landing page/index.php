@@ -26,19 +26,18 @@
         <?php
         //variavel para imagens
         $products= [
-            "macrame.jpg",
-            "macrame2.jpg",
-            "macrame3.jpg",
-            "macrame4.jpg",
-            "card.jpg",
+            "./Images/macrame.jpg",
+            "./Images/macrame2.jpg",
+            "./Images/macrame3.jpg",
+            "./Images/macrame4.jpg",
+            "./Images/card.jpg",
         ];
 
         ?>
 <!--   loop para todas as imagens-->
         <?php foreach ($products as $image){ ?>
-            <div class="card" style="width: 18rem;">
-                <a href="./Images/<?php echo $image; ?>" class="glightbox" data-gallery="gallery1">
-                    <img src="./Images/<?php echo $image; ?>" class="card-img-top" alt="...">
+            <div class="card" style="background-image: url('<?php echo $image; ?>'); background-size: cover; background-repeat: no-repeat">
+                <a href="<?php echo $image; ?>" class="glightbox" data-gallery="gallery1">
                     <div class="eye">
                         <img src="Images/icon-view.svg" alt="...">
                     </div>
