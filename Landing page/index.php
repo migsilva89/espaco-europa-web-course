@@ -22,8 +22,32 @@
     include "carousel.php";
     ?>
     <h1>Inês Couto</h1>
-    <p class="subtitle">Home made Macrame</p>
 
+<p data-toggle="modal" data-target="#exampleModalLong" class="subtitle">Home made Macrame</p>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Macramé</h5>
+            </div>
+            <div class="modal-body">
+                O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.
+            </div>
+        </div>
+    </div>
+</div>
 
 <center>
 
