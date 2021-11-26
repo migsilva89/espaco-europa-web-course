@@ -43,7 +43,7 @@
                 É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
                 O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
                 É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
-                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.adsasdadada
+                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.
             </div>
         </div>
     </div>
@@ -91,7 +91,7 @@
             <button class="btn btn-outline-secondary btn-lg" type="button">Linkedin</button>
         </a>
         <a href="mailto: inescouto72@gmail.com">
-            <button class="btn btn-outline-secondary btn-lg" type="button">Contact me</button>
+            <button class="btn btn-outline-secondary btn-lg" type="button">Contact</button>
         </a>
     </div>
 </footer>
