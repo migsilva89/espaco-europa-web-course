@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Outfit:wght@300;400;600&display=swap');
 
-
-
-
-
 :root {
     --line: hsl(215, 32%, 27%);
 }
@@ -30,6 +26,7 @@ h1 {
     margin-bottom: -75px;
     font-size: 100px;
     color: white;
+
 }
 h1:hover{
     color: hsl(17, 100%, 50%, 20%);
@@ -68,7 +65,7 @@ li {
 
 .card {
     border-radius: 5rem 5rem 5rem 5rem;
-    margin: 2rem 2rem 2rem 2rem;
+    margin: 4rem 2rem 2rem 2rem;
     width: 200px;
     height: 250px;
     overflow: hidden;
@@ -116,8 +113,18 @@ li {
     transition: all .1s ease-in-out;
 }
 
-footer {
-    /*position: absolute;*/
-    /*bottom: 0;*/
-    padding-top: 60px;
+.btn{
+    margin: 4rem 2rem 2rem 2rem;
+    color: lightslategrey;
+    box-shadow: -6px 0px 10px -9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -6px 0px 10px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -6px 0px 10px -9px rgba(0,0,0,0.75);
+border-color: lightslategrey;
+}
+
+.btn:hover{
+    color: white;
+    box-shadow: -6px 0px 10px -9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -6px 0px 10px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -6px 0px 10px -9px rgba(0,0,0,0.75);
 }
