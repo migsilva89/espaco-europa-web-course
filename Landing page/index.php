@@ -36,37 +36,14 @@
 </ul>
 
 
-<!--    <a href="mailto:Inescouto72@gmail.com">Contacta-me</a>-->
 
-
-
-
-
-
-
-
-
-
-<!--Conteudo -->
-<!--<div>-->
-<!--    <h2>-->
-<!--        Qual é o teu tipo de livro preferido?-->
-<!--    </h2>-->
+<!--<footer classe="footer">-->
 <!--    <ul>-->
-<!--        <li>Romance</li>-->
-<!--        <li>Crime</li>-->
-<!--        <li>Aventura</li>-->
-<!--    </ul>-->
-<!--</div>-->
-<!---->
-<!--<footer>-->
-<!--     Links relacionados no botao-->
-<!--    <ul>-->
-<!--        <li>-->
-<!--            <a href="https://www.linkedin.com">Linkedin</a>-->
+<!--        <li class="linkedin-btn">-->
+<!--            <a class="btn btn-primary" role="button" class="fab fa-instagram" href="https://www.instagram.com">Linkedin</a>-->
 <!--        </li>-->
-<!--        <li>-->
-<!--            <a href="https://www.instagram.com">Instagram</a>-->
+<!--        <li class="instagram-btn">-->
+<!--            <a class="btn btn-primary" role="button" class="fab fa-instagram" href="https://www.instagram.com">Instagram</a>-->
 <!--        </li>-->
 <!--    </ul>-->
 <!--</footer>-->
