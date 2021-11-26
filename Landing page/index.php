@@ -34,6 +34,11 @@
             "./Images/macrame3.jpg",
             "./Images/macrame4.jpg",
             "./Images/card.jpg",
+            "./Images/card.jpg",  "./Images/macrame.jpg",
+            "./Images/macrame2.jpg",
+            "./Images/macrame3.jpg",
+            "./Images/macrame4.jpg",
+            "./Images/card.jpg",
             "./Images/card.jpg",
         ];
 
@@ -52,26 +57,23 @@
          <?php } ?>
     </div>
 </div>
-
 </center>
 
+<footer>
+    <div class="d-grid gap-2 d-md-block">
+        <button class="btn btn-outline-secondary btn-lg btn-inst" type="button">Instagram</button>
+        <button class="btn btn-outline-secondary btn-lg" type="button">Linkedin</button>
+        <button class="btn btn-outline-secondary btn-lg" type="button">Contact</button>
+    </div>
+</footer>
 
 
 
-
-<!--<footer class="icons-btn">-->
-<!--   <a> <ion-icon href-->
-<!--</footer>="https://instagram.com" name="logo-instagram"></ion-icon> </a>-->
-<!--    <a> <ion-icon name="logo-linkedin"></ion-icon> </a>-->
-
-
-<!--ICONS LIBRARY-->
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
+<!--light box libray-->
 <script type="text/javascript">
     const lightbox = GLightbox({ selector: '.glightbox' });
 </script>
+
 
 </body>
 

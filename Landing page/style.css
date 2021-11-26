@@ -31,6 +31,16 @@ h1 {
     font-size: 100px;
     color: white;
 }
+h1:hover{
+    color: hsl(17, 100%, 50%, 20%);
+    transform: scale(1.1);
+}
+
+p:hover{
+    color: hsl(0, 0%, 100%);
+    transform: scale(1.1);
+}
+
 
 body {
     text-align: center;
@@ -60,7 +70,7 @@ li {
     border-radius: 5rem 5rem 5rem 5rem;
     margin: 2rem 2rem 2rem 2rem;
     width: 200px;
-    height: 300px;
+    height: 250px;
     overflow: hidden;
 }
 
@@ -106,3 +116,8 @@ li {
     transition: all .1s ease-in-out;
 }
 
+footer {
+    /*position: absolute;*/
+    /*bottom: 0;*/
+    padding-top: 60px;
+}
