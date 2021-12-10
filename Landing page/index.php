@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> <!--meter os scripts-->
+
+<head>
+    <!--meter os scripts-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
@@ -15,48 +17,48 @@
 </head>
 
 <body>
-<div class="centered-content">
-</div>
+    <div class="centered-content">
+    </div>
 
-<?php
+    <?php
     include "carousel.php";
     ?>
     <h1>Inês Couto</h1>
 
-<p data-toggle="modal" data-target="#exampleModalLong" class="subtitle">Home made Macrame</p>
+    <p data-toggle="modal" data-target="#exampleModalLong" class="subtitle">Home made Macrame</p>
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle">Macramé</h5>
-            </div>
-            <div class="modal-body">
-                O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
-                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
-                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
-                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
-                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
-                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
-                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
-                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
-                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
-                É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
-                O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Macramé</h5>
+                </div>
+                <div class="modal-body">
+                    O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                    É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                    O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                    É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                    O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                    É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                    O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                    É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                    O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.O macramê (do árabe makrama "guardanapo" ou "toalha") é uma técnica de tecelagem manual que consiste no uso de nós originalmente usada para criar franjas e barrados em lençois, cortinas toalhas etc.
+                    É mais do que provável que tenha surgido com a evolução natural dos nós básicos para um trabalho mais elaborado e por ser uma técnica muito boa para diversas atividades.
+                    O macramê pode ser usado como fonte de renda para algumas pessoas e famílias.
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<center>
+    <center>
 
-    <div class="container mx-auto">
-        <div class="row mx-auto">
+        <div class="container mx-auto">
+            <div class="row mx-auto">
 
-            <?php
+                <?php
                 //variavel para imagens
-                $products= [
+                $products = [
                     "./Images/macrame.jpg",
                     "./Images/macrame2.jpg",
                     "./Images/macrame3.jpg",
@@ -64,47 +66,48 @@
                     "./Images/card.jpg",
                     "./Images/card.jpg",
                 ];
-            ?>
-<!--   loop para todas as imagens-->
-            <?php foreach ($products as $image){ ?>
-                <div class="col-md-4 col-lg-2 col-sm-1 col-xs-1 mx-center">
-                    <div class="card" style="background-image: url('<?php echo $image; ?>'); background-size: cover; background-repeat: no-repeat">
-                    <a href="<?php echo $image; ?>" class="glightbox" data-gallery="gallery1">
-                        <div class="eye">
-                            <img src="Images/icon-view.svg" alt="...">
+                ?>
+                <!--   loop para todas as imagens-->
+                <?php foreach ($products as $image) { ?>
+                    <div class="col-md-4 col-lg-2 col-sm-1 col-xs-1 mx-center">
+                        <div class="card" style="background-image: url('<?php echo $image; ?>'); background-size: cover; background-repeat: no-repeat">
+                            <a href="<?php echo $image; ?>" class="glightbox" data-gallery="gallery1">
+                                <div class="eye">
+                                    <img src="Images/icon-view.svg" alt="...">
+                                </div>
+                            </a>
                         </div>
-                    </a>
                     </div>
-                </div>
-             <?php } ?>
+                <?php } ?>
+            </div>
         </div>
-    </div>
 
-</center>
+    </center>
 
-<footer>
-    <div class="d-grid gap-2 d-md-block">
-        <a href="https://instagram.com" target="_blank">
-            <button class="btn btn-outline-secondary btn-lg" type="button">Instagram</button>
-        </a>
-        <a href="https://linkedin.com" target="_blank">
-            <button class="btn btn-outline-secondary btn-lg" type="button">Linkedin</button>
-        </a>
-        <a href="mailto: inescouto72@gmail.com">
-            <button class="btn btn-outline-secondary btn-lg" type="button">Contact</button>
-        </a>
-    </div>
-</footer>
+    <footer>
+        <div class="d-grid gap-2 d-md-block">
+            <a href="https://instagram.com" target="_blank">
+                <button class="btn btn-outline-secondary btn-lg" type="button">Instagram</button>
+            </a>
+            <a href="https://linkedin.com" target="_blank">
+                <button class="btn btn-outline-secondary btn-lg" type="button">Linkedin</button>
+            </a>
+            <a href="mailto: inescouto72@gmail.com">
+                <button class="btn btn-outline-secondary btn-lg" type="button">Contact</button>
+            </a>
+        </div>
+    </footer>
 
-<!--<audio controls>-->
-<!--    <source src="/Files/newday.wav" type="audio/wav">-->
-<!--</audio>-->
+    <!--<audio controls>-->
+    <!--    <source src="/Files/newday.wav" type="audio/wav">-->
+    <!--</audio>-->
 
-<!--light box libray-->
-<script type="text/javascript">
-    const lightbox = GLightbox({ selector: '.glightbox' });
-</script>
+    <!--light box libray-->
+    <script type="text/javascript">
+        const lightbox = GLightbox({
+            selector: '.glightbox'
+        });
+    </script>
 
 </body>
-
 </html>
